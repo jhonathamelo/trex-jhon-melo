@@ -62,7 +62,7 @@ trex.addAnimation('colidiu',trexColidiu)
   tempoJogo = 0;
   
   trex.setCollider('circle', 0,0,35)
-  trex.debug = true
+  //trex.debug = true
   
   grupoDeCactos = new Group();
   grupoDeNuvens = new Group();
